@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+.intro-bg-img {
+     display: block;
+     background-image: url("../resources/img/Mockup.jpg");
+     background-size: cover;
+     min-height: 100%;
+     background-position:center;
+     background-repeat: no-repeat;
+     position: relative;
+ }
+.container {
+    display: block;
+    position: static;
+    margin: fill;
+    text-align: center;
+    width: auto;
+}
+.intro-text {
+    color: white;
+    font-size: 100px;
+}

@@ -1,0 +1,34 @@
+header {
+    position: sticky;
+    background-color: transparent;
+    background-size: auto;
+    padding: 0px 10px 10px 10px;
+}
+h1.header-text {
+    display: inline;
+    color: #35495e;
+    position: relative;
+    font-size: 40px;
+    text-decoration: none;
+    text-align: center;
+    margin: 40px;
+}
+div.header-link {
+    display: inline-block;
+    position: relative;
+    float: right;
+    margin-right: 80px;
+}
+a.header-link {
+    display: inline;
+    text-align: center;
+    float: left;
+    color: #72b5b7;
+    padding: 16px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+a.header-link:hover {
+    background-color: #111111;
+    color: white;
+}
