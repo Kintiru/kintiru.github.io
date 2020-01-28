@@ -2,22 +2,49 @@ body {
     margin: 0;
 }
 .intro-bg-img {
-     display: block;
-     background-image: url("../resources/img/Mockup.jpg");
-     background-size: cover;
-     min-height: 100%;
-     background-position:center;
-     background-repeat: no-repeat;
-     position: relative;
- }
-.container {
     display: block;
+    background-image: url("../resources/img/Mockup.jpg");
+    background-size: cover;
+    min-height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
     position: static;
-    margin: fill;
+ }
+.container .intro-text {
+    display: block;
+    position: relative;
+    margin-top: 20%;
+    margin-bottom: 25%;
     text-align: center;
     width: auto;
-}
-.intro-text {
     color: white;
     font-size: 100px;
+    font-family: 'Muli', sans-serif;
+    letter-spacing: 5px;
+}
+.contacts {
+    align-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#contacts #contactTitle {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 5px;
+    margin: auto 1% 3% -2%;
+}
+#contact-telegram {
+    position: relative;
+    display: inline-block;
+    color: white;
+    font-size: 40px;
+    margin: 5%;
+    }
+#TelegramIcon {
+    float: left;
+    display: inline-block;
+    height: 15%;
+    width: 15%;
 }
