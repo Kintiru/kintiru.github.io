@@ -3,19 +3,19 @@ body {
 }
 
 section#intro {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-image: url("../resources/img/Mockup.jpg");
     background-size: cover;
     min-height: 100vh;
-    background-position: center;
+    width: 100%;
     background-repeat: no-repeat;
  }
 
-.container .intro-text {
+.intro-text {
     display: block;
     position: relative;
-    margin-top: 15%;
-    margin-bottom: 33%;
     text-align: center;
     width: auto;
     color: white;
