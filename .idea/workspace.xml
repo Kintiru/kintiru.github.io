@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="added gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitingnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingnore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580149144232</updated>
       <workItem from="1580149145431" duration="17238000" />
-      <workItem from="1597599555167" duration="5167000" />
+      <workItem from="1597599555167" duration="5961000" />
     </task>
     <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
       <created>1597604303801</created>
@@ -81,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597604303801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed nav-title">
+      <created>1597604828520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597604828520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added gitignore">
+      <created>1597604961065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597604961066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,12 +113,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties" />
+    <MESSAGE value="changed nav-title" />
+    <MESSAGE value="added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="589" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597604355608">
+    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597604908328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="589" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597604355608" />
+    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597604908328" />
+    <state x="589" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597604962422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597604962422" />
   </component>
 </project>
