@@ -1,7 +1,8 @@
 nav {
     position: sticky;
     top: 0;
-    align-items: center;
+    align-content: center;
+    display: block;
     background-color: aquamarine;
     background-size: contain;
     opacity: 0.8;
@@ -16,7 +17,6 @@ h1.nav-title {
     position: relative;
     font-size: 30px;
     text-decoration: none;
-    margin: auto;
 }
 div.nav-link {
     display: inline-block;
