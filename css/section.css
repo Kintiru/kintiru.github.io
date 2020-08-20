@@ -1,7 +1,6 @@
 body {
     margin: 0;
 }
-
 section#intro {
     display: flex;
     align-items: center;
@@ -30,7 +29,8 @@ section#intro {
     margin-right: 25%;
 }
 
-#contacts #contactTitle {
+
+#contactTitle {
     color: white;
     font-size: 4vw;
     text-align: center;

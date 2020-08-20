@@ -1,19 +1,32 @@
+/* scroll bar hide for Chrome, Safari, Opera */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* scroll bar hide for IE, Edge, Firefox*/
+body {
+    -ms-overflow-style: none; /* IE, Edge */
+    scrollbar-width: none; /* Firefox */
+}
 nav {
-    position: sticky;
+    position: fixed;
     top: 0;
+    width: 100%;
     align-content: center;
     display: block;
-    background-color: aquamarine;
+    background-color: deepskyblue;
     background-size: contain;
     opacity: 0.8;
 }
 div.nav-title {
     position: relative;
     display: inline-block;
+    margin-top: 0.33vh;
+    margin-left: 3vh;
 }
 h1.nav-title {
     display: inline;
-    color: #1B8F99;
+    color: black;
     position: relative;
     font-size: 30px;
     text-decoration: none;
@@ -22,13 +35,14 @@ div.nav-link {
     display: inline-block;
     position: relative;
     float: right;
+    margin-right: 3vh;
 }
 a.nav-link {
     display: inline;
     text-align: center;
     float: left;
-    color: #72b5b7;
-    padding: 1.5vh 2vh 1.5vh 2vh;
+    color: black;
+    padding: 1.5vh 2vh 1.8vh 2vh;
     text-decoration: none;
     font-size: 18px;
 }
