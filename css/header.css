@@ -1,13 +1,3 @@
-/* scroll bar hide for Chrome, Safari, Opera */
-body::-webkit-scrollbar {
-    display: none;
-}
-
-/* scroll bar hide for IE, Edge, Firefox*/
-body {
-    -ms-overflow-style: none; /* IE, Edge */
-    scrollbar-width: none; /* Firefox */
-}
 nav {
     position: fixed;
     top: 0;
@@ -35,7 +25,7 @@ div.nav-link {
     display: inline-block;
     position: relative;
     float: right;
-    margin-right: 3vh;
+    margin-right: 1vw;
 }
 a.nav-link {
     display: inline;

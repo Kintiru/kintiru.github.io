@@ -33,5 +33,24 @@
         </a>
     </div>
 </section>
+<section id="games">
+    <div class="games">
+        <p>Rainbow six</p>
+    </div>
+</section>
 </body>
+<script>
+    let page = 0;
+    const scroll = (e) => {
+        e.preventDefault();
+        if(e.deltaY > 0) {
+            //todo 다음 페이지
+        }
+        else {
+            //todo 이전 페이지
+        }
+    }
+    const el = document.querySelector("section");
+    el.onwheel = scroll;
+</script>
 </html>
