@@ -6,13 +6,13 @@ nav {
     display: block;
     background-color: deepskyblue;
     background-size: contain;
-    opacity: 0.8;
+    z-index: 2;
 }
 div.nav-title {
     position: relative;
     display: inline-block;
     margin-top: 0.33vh;
-    margin-left: 3vh;
+    margin-left: 15vh;
 }
 h1.nav-title {
     display: inline;
@@ -25,7 +25,7 @@ div.nav-link {
     display: inline-block;
     position: relative;
     float: right;
-    margin-right: 1vw;
+    margin-right: 10vw;
 }
 a.nav-link {
     display: inline;

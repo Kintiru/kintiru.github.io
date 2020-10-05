@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Change nav color, margin, and hide scroll bar">
+      <change beforePath="$PROJECT_DIR$/../kaede/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaede/app/components/KdNavItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/app/components/KdNavItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaede/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaede/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitingnore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Kintiru/kintiru.github.io" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzOq87XtpUkDbgIN9V1YxJYizk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaede" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\Web\kintiru.cc\css" />
+      <recent name="D:\dev\Web\kintiru.cc\resources\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="" />
+      <created>1580149144232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580149144232</updated>
+      <workItem from="1580149145431" duration="17238000" />
+      <workItem from="1597599555167" duration="9053000" />
+      <workItem from="1597708986053" duration="3650000" />
+      <workItem from="1597776134840" duration="1319000" />
+      <workItem from="1597871027273" duration="3019000" />
+      <workItem from="1597893985590" duration="1016000" />
+      <workItem from="1597923125960" duration="5201000" />
+      <workItem from="1598063190172" duration="1547000" />
+      <workItem from="1598149049652" duration="707000" />
+      <workItem from="1601837966097" duration="2398000" />
+      <workItem from="1601849022988" duration="5943000" />
+      <workItem from="1601871244552" duration="695000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
+      <created>1597604303801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597604303801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed nav-title">
+      <created>1597604828520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597604828520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added gitignore">
+      <created>1597604961065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597604961066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="trying to fix navigation bar">
+      <created>1597712714618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597712714618</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change nav color, margin, and hide scroll bar">
+      <created>1597894393265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597894393265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties" />
+    <MESSAGE value="changed nav-title" />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="trying to fix navigation bar" />
+    <MESSAGE value="Change nav color, margin, and hide scroll bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change nav color, margin, and hide scroll bar" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="221" key="#Inspections" timestamp="1601851312703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="221" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601851312703" />
+    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597604908328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597604908328" />
+    <state x="533" y="285" key="FileChooserDialogImpl" timestamp="1601837979464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601837979464" />
+    <state x="589" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597894396854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597894396854" />
+  </component>
+</project>

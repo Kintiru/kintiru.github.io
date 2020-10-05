@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kaede/.idea/kaede.iml" filepath="$PROJECT_DIR$/../kaede/.idea/kaede.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kintiru.cc.iml" filepath="$PROJECT_DIR$/.idea/kintiru.cc.iml" />
+    </modules>
+  </component>
+</project>

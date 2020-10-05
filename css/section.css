@@ -11,7 +11,7 @@ body {
 body {
     margin: 0;
 }
-section#intro {
+#intro {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,17 +20,24 @@ section#intro {
     min-height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
- }
+    animation-name: fadein;
+    animation-duration: 2s;
+    z-index: 0;
+}
+
+@keyframes fadein {
+    from { opacity: 0.8; }
+    to   { opacity: 1; }
+}
 
 .intro-text {
     display: block;
     position: relative;
     text-align: center;
     width: auto;
-    color: white;
+    color: darkgray;
     font-size: 9vw;
-    font-family: 'Muli', sans-serif;
-    letter-spacing: 5px;
+    font-family: 'Montserrat Medium', Roboto;
 }
 
 .contacts {
