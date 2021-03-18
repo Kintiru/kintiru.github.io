@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Change nav color, margin, and hide scroll bar">
-      <change beforePath="$PROJECT_DIR$/../kaede/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaede/app/components/KdNavItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/app/components/KdNavItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaede/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaede/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../kaede/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitingnore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kintiru.cc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kintiru.cc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -62,9 +60,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kaede" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +100,11 @@
       <workItem from="1598149049652" duration="707000" />
       <workItem from="1601837966097" duration="2398000" />
       <workItem from="1601849022988" duration="5943000" />
-      <workItem from="1601871244552" duration="695000" />
+      <workItem from="1601871244552" duration="2177000" />
+      <workItem from="1613710097249" duration="37000" />
+      <workItem from="1613710135300" duration="77000" />
+      <workItem from="1614469086403" duration="1534000" />
+      <workItem from="1616021029551" duration="4624000" />
     </task>
     <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
       <created>1597604303801</created>
@@ -157,23 +166,5 @@
     <MESSAGE value="trying to fix navigation bar" />
     <MESSAGE value="Change nav color, margin, and hide scroll bar" />
     <option name="LAST_COMMIT_MESSAGE" value="Change nav color, margin, and hide scroll bar" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="727" y="221" key="#Inspections" timestamp="1601851312703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="727" y="221" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601851312703" />
-    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597604908328">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="747" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597604908328" />
-    <state x="533" y="285" key="FileChooserDialogImpl" timestamp="1601837979464">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="533" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601837979464" />
-    <state x="589" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597894396854">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="589" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597894396854" />
   </component>
 </project>
