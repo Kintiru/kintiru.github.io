@@ -41,7 +41,7 @@ body {
     font-family: 'Montserrat Medium', Roboto;
 }
 
-.contacts {
+.contact {
     display: flex;
     align-items: center;
     margin-left: 25%;
