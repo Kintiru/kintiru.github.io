@@ -1,0 +1,34 @@
+.contact {
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#contactTitle {
+    color: white;
+    font-size: 4vw;
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 5px;
+    margin: auto 1% 3% -2%;
+}
+
+#contact-telegram {}
+
+#telegram-icon {
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: 7vw;
+    height: 7vw;
+}
+
+#telegram-text {
+    display: inline-block;
+    position: relative;
+    margin: 5%;
+    font-size: 2vw;
+    color: white;
+}
