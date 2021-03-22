@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Change nav color, margin, and hide scroll bar">
-      <change afterPath="$PROJECT_DIR$/css/contact_section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/coding_section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/game_section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/intro_section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact_section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact_section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/intro_section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/intro_section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,8 @@
       <workItem from="1614469086403" duration="1534000" />
       <workItem from="1616021029551" duration="4624000" />
       <workItem from="1616070547955" duration="2500000" />
-      <workItem from="1616111047466" duration="3098000" />
+      <workItem from="1616111047466" duration="6722000" />
+      <workItem from="1616377240927" duration="5286000" />
     </task>
     <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
       <created>1597604303801</created>
