@@ -44,7 +44,6 @@
     display: flex;
     position: relative;
     color: black;
-    margin: 0;
     font-size: 2em;
     text-decoration: none;
 }
@@ -54,6 +53,12 @@
     position: relative;
     width: 6cm;
     height: 6cm;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+#discord-text{
+    display: flex;
+    margin: 0;
 }
