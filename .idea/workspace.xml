@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Change nav color, margin, and hide scroll bar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/contact_section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact_section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -105,7 +104,13 @@
       <workItem from="1616070547955" duration="2500000" />
       <workItem from="1616111047466" duration="6722000" />
       <workItem from="1616377240927" duration="6090000" />
-      <workItem from="1616509747717" duration="1807000" />
+      <workItem from="1616509747717" duration="2514000" />
+      <workItem from="1616545939606" duration="1156000" />
+      <workItem from="1616623335388" duration="17000" />
+      <workItem from="1616641769257" duration="1793000" />
+      <workItem from="1619292379901" duration="127000" />
+      <workItem from="1619292526203" duration="262000" />
+      <workItem from="1619292800284" duration="2021000" />
     </task>
     <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
       <created>1597604303801</created>
@@ -167,5 +172,9 @@
     <MESSAGE value="trying to fix navigation bar" />
     <MESSAGE value="Change nav color, margin, and hide scroll bar" />
     <option name="LAST_COMMIT_MESSAGE" value="Change nav color, margin, and hide scroll bar" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
