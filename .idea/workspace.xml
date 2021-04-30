@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05876dfd-1025-4ac0-ba35-bb445294b9bd" name="Default Changelist" comment="Change nav color, margin, and hide scroll bar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/intro_section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/intro_section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
       <workItem from="1619574335144" duration="31000" />
       <workItem from="1619574375545" duration="76000" />
       <workItem from="1619574461527" duration="842000" />
-      <workItem from="1619749936348" duration="3343000" />
+      <workItem from="1619749936348" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary="Changed center alignments of section.css.&#10;&#10;Changed center alignments, some texts, and some display properties">
       <created>1597604303801</created>
