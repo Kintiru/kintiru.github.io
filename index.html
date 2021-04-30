@@ -27,59 +27,47 @@
         </div>
     </nav>
 
-    <section id="intro">
-        <h1 class="intro-text">Kintiru</h1>
-    </section>
+    <div class="outer-wrapper">
+        <div class="horizontal-scroll-wrapper">
+            <section id="intro">
+                <h1 class="intro-text">Kintiru</h1>
+            </section>
 
-    <section id="programming">
-        <h2 class="section-title">Programming</h2>
-        <div class="programming">
-            <p>C++</p>
-            <p>Node.JS</p>
-            <p>html</p>
-            <p>css</p>
-        </div>
-    </section>
+            <section id="programming">
+                <h2 class="section-title">Programming</h2>
+                <div class="programming">
+                    <p>C++</p>
+                    <p>Node.JS</p>
+                    <p>html</p>
+                    <p>css</p>
+                </div>
+            </section>
 
-    <section id="games">
-        <h2 class="section-title">Games</h2>
-        <div class="game">
-            <p>Rainbow six</p>
-            <p>DJMAX Respect V</p>
-            <p>Overwatch</p>
-            <p>League of Legends</p>
-        </div>
-    </section>
+            <section id="games">
+                <h2 class="section-title">Games</h2>
+                <div class="game">
+                    <p>Rainbow six</p>
+                    <p>DJMAX Respect V</p>
+                    <p>Overwatch</p>
+                    <p>League of Legends</p>
+                </div>
+            </section>
 
-    <section id="contacts">
-        <h1 id="contact-title">Contacts</h1>
-        <div class="contact">
-            <a href="https://t.me/kintiru" id="contact-telegram">
-                <img id="telegram-icon" src="resources/img/TelegramTrans.png" alt="telegram">
-                <b id="telegram-text">Telegram</b>
-            </a>
-            <a href="http://discord.kintiru.cc" id="contact-discord">
-                <img id="discord-icon" src="" alt="discord">
-                <b id="discord-text">Discord</b>
-            </a>
+            <section id="contacts">
+                <h1 id="contact-title">Contacts</h1>
+                <div class="contact">
+                    <a href="https://t.me/kintiru" id="contact-telegram">
+                        <img id="telegram-icon" src="resources/img/TelegramTrans.png" alt="telegram">
+                        <b id="telegram-text">Telegram</b>
+                    </a>
+                    <a href="http://discord.kintiru.cc" id="contact-discord">
+                        <img id="discord-icon" src="" alt="discord">
+                        <b id="discord-text">Discord</b>
+                    </a>
+                </div>
+            </section>
         </div>
-    </section>
+    </div>
 </body>
 
-<script>
-    let page = 0;
-    const scroll = (e) => {
-        e.preventDefault();
-        if(e.deltaY > 0) {
-            page++;
-            //todo 다음 페이지
-        }
-        else {
-            if(page!=0) page--;
-            //todo 이전 페이지
-        }
-    }
-    const el = document.querySelector("section");
-    el.onwheel = scroll;
-</script>
 </html>
